@@ -13,6 +13,6 @@ This exercise demonstrates how to create a resource lock in Azure to prevent acc
 ...
 
 ## 🔗 Reference
-https://learn.microsoft.com/en-us/training/modules/describe-azure-management-governance/
+[https://learn.microsoft.com/en-us/training/modules/describe-azure-management-governance/](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/5-exercise-configure-resource-lock)
 # AZ-900-Labs
 Microsoft Azure Fundamentals - Exercise
